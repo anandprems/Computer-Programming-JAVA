@@ -13,6 +13,7 @@
 ## Module 5: Packages and Exception Handling
 
 ## Module 6: IO Streams and Files
+Java I/O streams - FileInputStream & FileOutputStream - FileReader & FileWriter - DataInputStream & DataOutputStream - BufferedInputStream & BufferedOutputStream, PrintOutputStream - Serialization & Deserialization 
 
 ## Module 7: Collection Framework
-Generic classes and methods - Collection framework: List and Mao
+Generic classes and methods - Collection framework: List and Map
