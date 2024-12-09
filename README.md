@@ -2,14 +2,17 @@
 
 ## Module 1: JAVA basics
 
-## Module 2:
 
-## Module 3:
 
-## Module 4:
+## Module 2: Looping Constructs and Arrays
 
-## Module 5:
+## Module 3: Classes and Objects
 
-## Module 6:
+## Module 4: Inheritance and Polymorphism 
 
-## Module 7:
+## Module 5: Packages and Exception Handling
+
+## Module 6: IO Streams and Files
+
+## Module 7: Collection Framework
+Generic classes and methods - Collection framework: List and Mao
